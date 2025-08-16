@@ -1,0 +1,88 @@
+/* Base */
+body {
+  background-color: #222831;
+  color: #DFD0B8;
+  font-family: "Segoe UI", Roboto, sans-serif;
+  line-height: 1.6;
+}
+
+/* Links */
+a {
+  color: #948979;
+  text-decoration: none;
+}
+a:hover {
+  color: #DFD0B8;
+  border-bottom: 1px solid #948979;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #393E46;
+  color: #DFD0B8;
+  border-bottom: 2px solid #948979;
+}
+.navbar a {
+  color: #DFD0B8;
+}
+.navbar a:hover {
+  color: #948979;
+}
+
+/* Footer */
+footer {
+  background-color: #393E46;
+  color: #948979;
+  padding: 20px;
+  text-align: center;
+}
+footer a {
+  color: #DFD0B8;
+}
+footer a:hover {
+  color: #948979;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #DFD0B8;
+}
+
+/* Code blocks */
+code {
+  background-color: #393E46;
+  color: #DFD0B8;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+pre code {
+  background-color: #1E1E1E; /* slightly darker for contrast */
+  color: #DFD0B8;
+  display: block;
+  padding: 12px;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #948979;
+  padding-left: 12px;
+  color: #DFD0B8;
+  margin: 1.5em 0;
+}
+
+/* Buttons */
+button, .btn {
+  background-color: #948979;
+  color: #222831;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+button:hover, .btn:hover {
+  background-color: #DFD0B8;
+  color: #222831;
+}
