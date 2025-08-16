@@ -86,3 +86,26 @@ button:hover, .btn:hover {
   background-color: #DFD0B8;
   color: #222831;
 }
+/* General box styling */
+.box-success, .box-note {
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin: 16px 0;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
+/* Success box (used for summary or highlights) */
+.box-success {
+  background-color: #393E46;   /* secondary dark */
+  border-left: 4px solid #948979; /* accent */
+  color: #DFD0B8;             /* light text */
+}
+
+/* Note box (used for challenge info / hints) */
+.box-note {
+  background-color: #222831;   /* main background */
+  border-left: 4px solid #DFD0B8; /* light beige accent */
+  color: #DFD0B8;
+  font-style: italic;
+}
