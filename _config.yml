@@ -49,7 +49,7 @@ social-network-links:
   email: "chiheb.mahfoudh@gmail.com"
   github: L3benn
 #  reddit: yourname or r/yoursubreddit
-  linkedin: Chiheb Mahfoudh
+  linkedin: chiheb-mahfoudh-285917339
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -125,24 +125,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#121212"          # Dark background
-text-col: "#E0E0E0"          # Light gray text
+page-col: "#121212"          # Dark background (almost black, but soft)
+text-col: "#E0E0E0"          # Light gray text for readability
 link-col: "#00FF88"          # Bright green links
-hover-col: "#00CC66"         # Darker green hover
+hover-col: "#00CC66"         # Slightly darker green on hover
 navbar-col: "#1A1A1A"        # Dark navbar
-navbar-text-col: "#E0E0E0"   # Light navbar text
-navbar-border-col: "#00FF88" # Green border
+navbar-text-col: "#E0E0E0"   # Light text in navbar
+navbar-border-col: "#00FF88" # Green border under navbar
 footer-col: "#1A1A1A"        # Dark footer
-footer-text-col: "#AAAAAA"   # Muted gray
+footer-text-col: "#AAAAAA"   # Muted gray text in footer
 footer-link-col: "#00FF88"   # Green footer links
-footer-hover-col: "#00CC66"  # Hover green
-
-# New fixes
-code-bg-col: "#1E1E1E"       # Dark gray for code blocks (VSCode-like)
-code-text-col: "#00FF88"     # Green code text
-inline-code-bg-col: "#2A2A2A" # Slightly lighter background for inline code
-inline-code-text-col: "#FFDD55" # Yellow-ish inline code text (contrast)
-
+footer-hover-col: "#00CC66"  # Hover green in footer
 
 
 # Alternatively, the navbar, footer, and page background can be set to an image
