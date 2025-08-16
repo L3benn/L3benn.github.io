@@ -4,7 +4,7 @@ title: Ramadan's Spark CTF 2025 Web Writeups
 subtitle: A comprehensive guide to solving web security challenges
 gh-repo: L3benn/ctf-writeups
 gh-badge: [star, fork, follow]
-tags: [ctf, web-security, xss, graphql, sqli, ssrf, struts]
+tags: [web-security, writeup]
 comments: true
 mathjax: false
 author: L3benn
