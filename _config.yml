@@ -51,9 +51,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "chiheb.mahfoudh@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: L3benn
-#  medium: yourname
+  medium: L3benn
 #  reddit: yourname or r/yoursubreddit
   linkedin: Chiheb Mahfoudh
 #  xing: yourname
